@@ -116,7 +116,7 @@ O projeto foi desenvolvido e validado em ambiente de simulação utilizando:
 Wokwi –  https://wokwi.com/projects/461411324381726721
  
 
-Vídeo Explicativo – 
+
 
  
 
